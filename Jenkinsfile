@@ -21,5 +21,3 @@ pipeline {
         }
     }
 }
-Toggle Scripted Pipeline (Advanced)
-Stages as Deployme
